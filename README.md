@@ -31,9 +31,4 @@ The primary goal of this project is to create an accurate and robust model that 
    - Optimize the model's parameters using techniques such as Grid Search and Random Search to improve performance.
 
 
-**Learning Outcomes:**
-- Develop a strong foundation in machine learning concepts and techniques.
-- Gain practical experience in data handling, preprocessing, and visualization.
-- Understand the intricacies of model selection, training, and evaluation.
-- Learn how to deploy machine learning models for real-world applications.
-- Enhance their problem-solving and analytical skills by working on a tangible project.
+
